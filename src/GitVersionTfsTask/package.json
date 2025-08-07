@@ -15,7 +15,7 @@
     "license": "MIT",
     "dependencies": {
         "q": "1.5.1",
-        "azure-pipelines-task-lib": "2.7.1"
+        "azure-pipelines-task-lib": "5.2.1"
     },
     "devDependencies": {
         "@types/argparse": "^1.0.35",
@@ -24,7 +24,7 @@
         "@types/q": "1.5.1",
         "argparse": "^1.0.10",
         "copy-node-modules": "^1.0.8",
-        "tfx-cli": "^0.6.1",
+        "tfx-cli": "^0.21.1",
         "typescript": "^3.0.3"
     }
 }
